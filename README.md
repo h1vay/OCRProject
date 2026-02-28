@@ -1,9 +1,13 @@
 # OCRProject
 
 OCR = Optical Character Recognition, also Text aus Bildern lesen
+
 Tesseract = https://github.com/charlesw/tesseract
+
 .NET = Framework
+
 ClosedXML = erlaubt Excel zu lesen/bearbeiten, ohne dass Excel installiert werden muss
+
 P/Invoke — Windows-Systemfunktionen direkt aus C# aufrufen
 
 ## Wie der Code funktioniert — Schritt für Schritt
