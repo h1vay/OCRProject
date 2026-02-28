@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OcrToExcel.Win")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19de19a98bfdfb8aed0af4b92bf767aa5f59715a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ff58b3ca2469aea39a061d376d87d7eb9ea737")]
 [assembly: System.Reflection.AssemblyProductAttribute("OcrToExcel.Win")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OcrToExcel.Win")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
