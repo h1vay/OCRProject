@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGKD5KRIhn4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\OCRProject\\OcrToExcel.Win\\OcrToExcel.Win.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
